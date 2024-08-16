@@ -16,4 +16,4 @@ This is a web app built with React that can save and delete notes to the compute
 None
 
 thank you
-Walaa Zidan
+Walaa Hassan
